@@ -1,4 +1,4 @@
-package br.com.microservices.eureka;
+package br.com.alura.microservices.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
